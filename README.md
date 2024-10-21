@@ -3,9 +3,6 @@
 📊 Data Visualization: Empowering Business with Effective Insights
 Project Overview
 In this project, I used Power BI to analyze and visualize key business data for a retail store. The goal was to provide insights to the CEO and CMO on revenue trends, top customers, and potential expansion opportunities
-.![Screenshot 2024-10-21 124127](https://github.com/user-attachments/assets/be31783a-fc0d-41ac-ad70-3b5a179d0287)
-![Screenshot 2024-10-21 124214](https://github.com/user-attachments/assets/53d396b9-1c7b-4b92-afce-5613c3e13d76)
-![Screenshot 2024-10-21 124243](https://github.com/user-attachments/assets/640ac220-74b8-4969-b09f-3131a48ba99c)
 
 Data Cleaning
 I performed initial data cleaning in MS Excel, ensuring:
@@ -19,3 +16,6 @@ Global Product Demand (Excluding UK): A map visual highlighting regions with the
 Tools Used
 Power BI for all data visualizations.
 MS Excel for cleaning the dataset before analysis.
+.![Screenshot 2024-10-21 124127](https://github.com/user-attachments/assets/be31783a-fc0d-41ac-ad70-3b5a179d0287)
+![Screenshot 2024-10-21 124214](https://github.com/user-attachments/assets/53d396b9-1c7b-4b92-afce-5613c3e13d76)
+![Screenshot 2024-10-21 124243](https://github.com/user-attachments/assets/640ac220-74b8-4969-b09f-3131a48ba99c)
